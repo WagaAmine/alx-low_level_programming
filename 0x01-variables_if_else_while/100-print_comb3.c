@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints all possible different combinations of two digits globale 
+ * main - prints all possible different combinations of two digits globale
  * Return: ALways 0 (Success) demmo
  */
 int main(void)
